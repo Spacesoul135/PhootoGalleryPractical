@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB6E8F27-E52D-4259-B1E0-FF4FBD968FE8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "783E572A-5615-4840-930C-1612711B86DF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoGalleryPractical/Scenes/View/Profile/Controller/Home/ViewModel/HomeVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "setData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "783E572A-5615-4840-930C-1612711B86DF - 935141079adae21b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoGalleryPractical.HomeVM.setData() -&gt; ()"
+                  moduleName = "PhotoGalleryPractical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spacesoul/Documents/Practical%20/PhotoGalleryPractical/PhotoGalleryPractical/Scenes/View/Profile/Controller/Home/ViewModel/HomeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "211"
+                  endingLineNumber = "211"
+                  offsetFromSymbolStart = "7432">
+               </Location>
+               <Location
+                  uuid = "783E572A-5615-4840-930C-1612711B86DF - d2a1d9127a5767b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;Swift.Array&lt;PhotoGalleryPractical.PhotoGallery&gt;&gt;) -&gt; () in PhotoGalleryPractical.HomeVM.setData() -&gt; ()"
+                  moduleName = "PhotoGalleryPractical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spacesoul/Documents/Practical%20/PhotoGalleryPractical/PhotoGalleryPractical/Scenes/View/Profile/Controller/Home/ViewModel/HomeVM.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "212"
+                  endingLineNumber = "212"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA01468F-4917-4EB2-90D3-3500B5808DED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoGalleryPractical/CoreData/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchRecordsFromAccountTbl(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA01468F-4917-4EB2-90D3-3500B5808DED - a290b4bbbcd9d210"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoGalleryPractical.DataManager.fetchRecordsFromAccountTbl((Swift.Optional&lt;Swift.Array&lt;PhotoGalleryPractical.PhotoGallery&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhotoGalleryPractical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spacesoul/Documents/Practical%20/PhotoGalleryPractical/PhotoGalleryPractical/CoreData/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "EA01468F-4917-4EB2-90D3-3500B5808DED - a290b4bbbcd9d2b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoGalleryPractical.DataManager.fetchRecordsFromAccountTbl((Swift.Optional&lt;Swift.Array&lt;PhotoGalleryPractical.PhotoGallery&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhotoGalleryPractical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spacesoul/Documents/Practical%20/PhotoGalleryPractical/PhotoGalleryPractical/CoreData/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3E932E2-418B-494B-ADAC-27881304BAC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoGalleryPractical/CoreData/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchRecordsFromAccountTbl(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3E932E2-418B-494B-ADAC-27881304BAC6 - a290b4bbbcd9d294"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoGalleryPractical.DataManager.fetchRecordsFromAccountTbl((Swift.Optional&lt;Swift.Array&lt;PhotoGalleryPractical.PhotoGallery&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhotoGalleryPractical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spacesoul/Documents/Practical%20/PhotoGalleryPractical/PhotoGalleryPractical/CoreData/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "C3E932E2-418B-494B-ADAC-27881304BAC6 - a290b4bbbcd9d3c9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoGalleryPractical.DataManager.fetchRecordsFromAccountTbl((Swift.Optional&lt;Swift.Array&lt;PhotoGalleryPractical.PhotoGallery&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhotoGalleryPractical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spacesoul/Documents/Practical%20/PhotoGalleryPractical/PhotoGalleryPractical/CoreData/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C366136C-291F-4203-95E6-E30339E6DDDF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoGalleryPractical/CoreData/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "fetchRecordsFromAccountTbl(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C366136C-291F-4203-95E6-E30339E6DDDF - a290b4bbbcd9d3ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoGalleryPractical.DataManager.fetchRecordsFromAccountTbl((Swift.Optional&lt;Swift.Array&lt;PhotoGalleryPractical.PhotoGallery&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhotoGalleryPractical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spacesoul/Documents/Practical%20/PhotoGalleryPractical/PhotoGalleryPractical/CoreData/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "66"
+                  endingLineNumber = "66"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "C366136C-291F-4203-95E6-E30339E6DDDF - a290b4bbbcd9d40f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoGalleryPractical.DataManager.fetchRecordsFromAccountTbl((Swift.Optional&lt;Swift.Array&lt;PhotoGalleryPractical.PhotoGallery&gt;&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "PhotoGalleryPractical"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/spacesoul/Documents/Practical%20/PhotoGalleryPractical/PhotoGalleryPractical/CoreData/DataManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17757C24-5D25-4AC6-AFE7-592021801DF1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoGalleryPractical/AppUtility/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "441E23C7-A5A9-400C-840A-6959609A984B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoGalleryPractical/Scenes/View/Profile/Controller/Login/LoginVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "btnLoginGoogleTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
